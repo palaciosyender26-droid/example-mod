@@ -8,9 +8,9 @@
 	},
 	"id": "palacios.mi_gdps",
 	"name": "yender",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"version": "MOD_VERSION",
+	"developer": "MOD_DEVELOPER",
+	"description": "MOD_DESCRIPTION",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
